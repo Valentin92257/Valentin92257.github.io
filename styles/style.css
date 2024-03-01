@@ -1,5 +1,5 @@
 :root {
-    --accent-color: #d174fc;
+    --accent-color: #7B68EE;
     --primary-color: #231F20;
     --body-background-color: #f6f7f8;
 
@@ -12,7 +12,7 @@
     --hero-link-color: var(--primary-color);
     --hero-link-hover-color: var(--accent-color);
 
-    --hero-box-background-start-color: #7B68EE;
+    --hero-box-background-start-color: #d174fc;
     --hero-box-background-end-color: var(--accent-color);
 
     --section-title-color: var(--primary-color);
@@ -49,7 +49,7 @@ body.theme-dark {
     --hero-link-color: var(--primary-color);
     --hero-link-hover-color: var(--accent-color);
 
-    --hero-box-background-start-color: #7B68EE;
+    --hero-box-background-start-color: #d174fc;
     --hero-box-background-end-color: var(--accent-color);
 
     --section-title-color: var(--primary-color);
