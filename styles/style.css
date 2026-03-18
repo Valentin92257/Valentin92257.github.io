@@ -36,7 +36,7 @@
 }
 
 body.theme-dark {
-    --accent-color: #7B68EE;
+    --accent-color: #ABCDEF;
     --primary-color: #e0e0e0;
     --body-background-color: #151217;
 
@@ -55,9 +55,17 @@ body.theme-dark {
     --section-title-color: var(--primary-color);
     --section-title-background-color: rgba(255, 255, 255, 0);
 
+    --tablet-text-color: #151217;
+    --tablet-text-second-color: #151217;
+    --tablet-text-third-color: #151217;
+    --tablet-background-color: var(--accent-color);
+    --tablet-background-second-color: #e9ecee;
+    --tablet-background-third-color: #d8e4f2;
+
     --card-column-border-color: var(--primary-color);
     --marker-color: var(--accent-color);
 
+    --card-name-color: var(--primary-color);
     --card-name-background-color: var(--accent-color);
     --card-span-title-color: var(--primary-color);
 
