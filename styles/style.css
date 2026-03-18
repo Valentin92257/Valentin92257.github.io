@@ -65,7 +65,7 @@ body.theme-dark {
     --card-column-border-color: var(--primary-color);
     --marker-color: var(--accent-color);
 
-    --card-name-color: var(--primary-color);
+    --card-name-color: var(--body-background-color);
     --card-name-background-color: var(--accent-color);
     --card-span-title-color: var(--primary-color);
 
