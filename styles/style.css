@@ -111,6 +111,10 @@ h3 {
     color: var(--header-color);
 }
 
+.card-name {
+    color: var(--tablet-text-color)
+}
+
 .hero {
     display: flex;
     justify-content: center;
